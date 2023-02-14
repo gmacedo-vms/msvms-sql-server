@@ -30,3 +30,9 @@ sp_help 'srec_provided_account_service.payment_channel_service'
 ```
 exec sp_columns 'service', @table_owner ='srec_provided_account_service'
 ```
+
+### Pagination
+```
+Search: PAgination in SQL Server
+Link: https://www.sqlshack.com/pagination-in-sql-server/#:~:text=What%20is%20Pagination%20in%20SQL,pagination%20solution%20for%20SQL%20Server.
+```
